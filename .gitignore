@@ -1,3 +1,14 @@
+
+# logs
 *.log.gz
 latest.log
+
+# Misc
 world
+luckperms
+bStats
+*.jar
+
+# Editors
+.vscode
+.idea
